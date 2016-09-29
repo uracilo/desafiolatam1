@@ -19,6 +19,9 @@ margin: auto;
   color: white;
   height: 50vh;
   margin: auto;
+
+
+
 }
 
 .font_size{
@@ -69,4 +72,16 @@ p{
 
 .fondo{
 	background-color: red;
+}
+
+.borde{
+	 border-bottom-style: dashed;
+	 height: 1px;
+	 color: lightgreen;
+	 margin-top: 1%;
+}
+
+
+.sin_align{
+	text-align: left;
 }
