@@ -1,0 +1,26 @@
+.negritas{
+	font-weight: bold;
+}
+
+.imagen{
+  text-align: center;
+  background-image: url("http://www.ulima.edu.pe/sites/default/files/styles/600x300/public/news/img/2012-04-10_taller_de_emprendimiento_verano_menor_resolucion.jpg?itok=rQC0UWlw");
+color: white;
+background-size: cover;
+margin-bottom: 0px;
+width: 100%;
+
+}
+.verde{
+  text-align: center;
+  background-color: #59D3AB;
+  color: white;
+}
+
+.font_size{
+	font-size: 300%;
+}
+
+.center{
+	margin: auto;
+}
