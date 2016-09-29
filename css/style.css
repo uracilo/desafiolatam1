@@ -9,12 +9,16 @@ color: white;
 background-size: cover;
 margin-bottom: 0px;
 width: 100%;
+height: 50vh;
+margin: auto;
 
 }
 .verde{
   text-align: center;
   background-color: #59D3AB;
   color: white;
+  height: 50vh;
+  margin: auto;
 }
 
 .font_size{
@@ -60,4 +64,9 @@ p{
 .sintexto{
 	margin: 3%;
     text-align: left;
+}
+
+
+.fondo{
+	background-color: red;
 }
