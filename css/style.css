@@ -45,5 +45,19 @@ width: 100%;
 
 .r_imagen{
 	margin: none;
+	width: 90%;
+    height: 50%;
+    position: relative;
+    float: left;
 
+}
+
+p{
+	margin: 3%;
+    text-align: center;
+}
+
+.sintexto{
+	margin: 3%;
+    text-align: left;
 }
