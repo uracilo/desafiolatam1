@@ -32,3 +32,18 @@ align-content: center;
 	background-image: url("https://regmedia.co.uk/2016/03/15/shutterstock_hacker.jpg?x=648&y=348&crop=1");
 width: 100%;
 }
+
+.azul_btn{
+	background-color: blue;
+}
+
+.dash{
+	border-width: 3px;
+	border-style: dashed;
+	border-color: red; 
+}
+
+.r_imagen{
+	margin: none;
+
+}
