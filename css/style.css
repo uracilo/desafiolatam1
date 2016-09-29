@@ -22,5 +22,13 @@ width: 100%;
 }
 
 .center{
-	margin: auto;
+align-content: center;
+}
+
+.azul{
+	color: blue;
+}
+.hacker{
+	background-image: url("https://regmedia.co.uk/2016/03/15/shutterstock_hacker.jpg?x=648&y=348&crop=1");
+width: 100%;
 }
