@@ -85,3 +85,76 @@ p{
 .sin_align{
 	text-align: left;
 }
+
+.logo1{
+	height: 100px;
+    width: 100%;
+	//background-color: red;
+	background-image: url("http://www.liderandoempresas.com/revista/wp-content/uploads/2013/07/ASECH-logo-2.jpg");
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo2{
+	height: 100px;
+    width: 100%;
+	//background-color: red;
+	background-image: url("http://fullhdpictures.com/wp-content/uploads/2016/01/Microsoft-Logo-HD.jpg");
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo3{
+	height: 100px;
+    width: 100%;
+	//background-color: red;
+	background-image: url("https://static.betazeta.com/www.fayerwayer.com/up/2015/01/ADM400-960x623.jpg");
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo4{
+	height: 100px;
+    width: 100%;
+	//background-color: red;
+	background-image: url("http://innovacion.ufro.cl/sitio_antiguo/images/noticias/Logo_innovachile.jpg");
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.logof{
+	height: 100px;
+    width: 15%;
+	background-color: red;
+	background-image: url("http://www.freeiconspng.com/uploads/fb-icon-11.png");
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.logot{
+	height: 100px;
+    width: 15%;
+	//background-color: red;
+	background-image: url("https://image.freepik.com/iconos-gratis/twitter-logo_318-40209.jpg");
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.logoi{
+	height: 100px;
+    width: 15%;
+	//background-color: red;
+	background-image: url("http://www.gfsa.com/wp-content/uploads/2014/08/Linkedin-logo.png");
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
